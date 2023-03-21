@@ -1,6 +1,6 @@
 # JUNO: Jupyter Unified Natural-Language Oracle
 
-![https://github.com/kks32/juno/actions/workflows/build.yml/badge.svg](https://github.com/kks32/juno/actions/workflows/build.yml)
+![https://github.com/kks32/juno/actions/workflows/build.yml](https://github.com/kks32/juno/actions/workflows/build.yml/badge.svg)
 
 Juno AI is a JupyterLab extension to use large language model (LLM) completion on your notebook cells.
 
